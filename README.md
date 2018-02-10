@@ -8,4 +8,4 @@
   <li>Installer <a href="https://files.minecraftforge.net/">forge</a></li>
   <li>Windows+R -> %appdata% -> .minecraft -> mods(si il n'exite pas ,créez le)
   <li>Mettre les .jar récupéres sur<a href="https://www.minecraft-france.fr/mod-project-red-redstone-1-7-10/"> Project Red</a> et <a href="http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274287-eloraams-mods-redpower-2-prerelease-6"> Red Power</a></li>
-  <li><a href="https://codeload.github.com/Tutur62/Projet_minecraft/zip/master">Télécharger la version actuelle</a></li>
+  <li><a href="https://codeload.github.com/Tutur62/Projet_minecraft/zip/master">Télécharger la version actuelle de la map</a></li>
