@@ -2,7 +2,7 @@
 ## Voici notre projet tutoré de DUT informatique réalisé au cours de notre 2ème année dans le but d'apprendre la logique booléenne
 <center><img src="image.PNG" width="425"/></center>
 <h2>Voici les instructions d'installation de la map et les mods requis</h2>
-<a href="https://github.com/Tutur62/Projet_minecraft/wiki">Pour plus d'information,veuillez visiter notre wiki</a>
+<a href="https://github.com/Tutur62/Projet_minecraft/wiki">Pour plus d'information, veuillez visiter notre wiki</a>
 <ul>
   <li>Tout les mods sont à télécharger en 1.10.2</li>
   <li>Lancer minecraft et installer la version 1.10.2</li>
